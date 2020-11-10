@@ -1,0 +1,17 @@
+/* Signature */
+.fw-theme-signature {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  .fw-signature-left-part {
+    .section_header {
+      text-transform: none;
+      margin-bottom: 0;
+    }
+  }
+  .fw-signature-right-part {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

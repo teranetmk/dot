@@ -1,0 +1,13 @@
+/* widget socials */
+.widget_socials {
+    a.social-icon {
+      margin-left: 10px !important;
+      &:first-of-type {
+        margin-left: 0 !important;
+      }
+      &:before {
+        top: 1px;
+        position: relative;
+      }
+    }
+}

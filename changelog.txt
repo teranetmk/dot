@@ -1,0 +1,33 @@
+Version 2.1.0 - December 10, 2018
+
+* Add FullPage plugin
+* Add header-2 custom search icon
+* Team slider shortcode scss optimized
+* Add "Disable gutenberg" plugin
+
+Version 2.0.6 - November 27, 2018
+
+* Add Polylang plugin
+* Fixing blog grid pagination
+* Add tracking scripts (Hotjar, Google Analytics, etc)
+* Remove mwt-maintenance plugin
+* Remove mwt-developer plugin / add mwt-helpers plugin (Show system info)
+* Prepare theme for PHP version 7.2
+
+Version 2.0.0 - October 4, 2018
+
+* Add Revolution slider + Unyson shortcode
+* Add Team member layout 3
+* Add open hours shortcode
+* Add Services layout 4
+* Add Home Page Alternative
+* Add footer layout 2
+* Add Video shortcode
+* Add shortcode Info Box
+* Add section styles switcher in section options
+* Rebuilding color scheme
+* Add new testimonials layout
+
+Version 1.0.0 - May 18, 2018  [released]
+
+Initial Release
